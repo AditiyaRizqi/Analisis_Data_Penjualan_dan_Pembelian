@@ -4,14 +4,14 @@
 # Langkah-Langkah Analisis
 1.	Manakah penjualan barang fiktif yang menghasilkan pendapatan tertinggi namun dengan harga pembelian terendah?
 A.	Penjualan dengan Pendapatan Tertinggi:
-o	Penjualan dengan pendapatan tertinggi adalah faktur PJ005 dan PJ006, masing-masing dengan total harga Rp 900.000.
+Penjualan dengan pendapatan tertinggi adalah faktur PJ005 dan PJ006, masing-masing dengan total harga Rp 900.000.
 B.	Harga Pembelian Rendah:
-o	Untuk penjualan fiktif, harga pembelian sebenarnya tidak ada, karena barang tersebut tidak benar-benar dijual atau dibeli.
-o	Namun, dalam konteks analisa fiktif ini, Barang B dijual dengan harga satuan Rp 45.000, lebih rendah dibandingkan dengan Barang A (Rp 70.000) dan Barang C (Rp 60.000).
+Untuk penjualan fiktif, harga pembelian sebenarnya tidak ada, karena barang tersebut tidak benar-benar dijual atau dibeli.
+Namun, dalam konteks analisa fiktif ini, Barang B dijual dengan harga satuan Rp 45.000, lebih rendah dibandingkan dengan Barang A (Rp 70.000) dan Barang C (Rp 60.000).
 
 2.	Manakah penjualan barang fiktif yang menghasilkan pendapatan tertinggi namun dengan harga pembelian terendah?
 C.	Analisa Kombinasi Pendapatan Tertinggi dan Harga Pembelian Rendah:
-o	Penjualan Barang B pada faktur PJ005 menghasilkan pendapatan tertinggi (Rp 900.000) dengan harga satuan yang lebih rendah (Rp 45.000), dibandingkan dengan faktur PJ004 dan PJ006.
+Penjualan Barang B pada faktur PJ005 menghasilkan pendapatan tertinggi (Rp 900.000) dengan harga satuan yang lebih rendah (Rp 45.000), dibandingkan dengan faktur PJ004 dan PJ006.
 
 ## Kesimpulan
 Penjualan fiktif yang menghasilkan pendapatan tertinggi dengan harga pembelian yang rendah adalah penjualan Barang B pada faktur PJ005, dengan pendapatan Rp 900.000 dan harga satuan Rp 45.000. Penjualan ini memberikan ilusi keuntungan yang tinggi karena harga jualnya relatif rendah tetapi kuantitasnya besar, menghasilkan total yang signifikan tanpa pengeluaran nyata
