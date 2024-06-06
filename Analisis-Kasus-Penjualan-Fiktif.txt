@@ -1,0 +1,43 @@
+Tanggal    No. Faktur  Nama Supplier  Barang  Jumlah  Harga Satuan  Total Harga
+01/06/2024 P8001       PT ABC         Barang A 10      Rp 50.000     Rp 500.000
+03/06/2024 P8002       CV DEF         Barang B 20      Rp 30.000     Rp 600.000
+05/06/2024 P8003       PT GHI         Barang C 15      Rp 40.000     Rp 600.000
+
+Tanggal    No. Faktur  Nama Pelanggan  Barang  Jumlah  Harga Satuan  Total Harga
+02/06/2024 PJ001       Toko Jaya       Barang A 5       Rp 70.000     Rp 350.000
+04/06/2024 PJ002       Toko Maju       Barang B 10      Rp 45.000     Rp 450.000
+06/06/2024 PJ003       Toko Sejahtera  Barang C 8       Rp 60.000     Rp 480.000
+
+Tanggal    No. Faktur  Nama Pelanggan  Barang  Jumlah  Harga Satuan  Total Harga
+02/06/2024 PJ004       Toko Palsu      Barang A 10      Rp 70.000     Rp 700.000
+04/06/2024 PJ005       Toko Bohong     Barang B 20      Rp 45.000     Rp 900.000
+06/06/2024 PJ006       Toko Tipu       Barang C 15      Rp 60.000     Rp 900.000
+
+
+1. Manakah penjualan barang fiktif yang menghasilkan pendapatan tertinggi namun dengan harga pembelian terendah?
+A. Penjualan dengan Pendapatan Tertinggi:
+o Penjualan dengan pendapatan tertinggi adalah faktur PJ005 dan PJ006, masing-masing dengan total harga Rp 900.000.
+B. Harga Pembelian Rendah:
+o Untuk penjualan fiktif, harga pembelian sebenarnya tidak ada, karena barang tersebut tidak benar-benar dijual atau dibeli.
+o Namun, dalam konteks analisa fiktif ini, Barang B dijual dengan harga satuan Rp 45.000, lebih rendah dibandingkan dengan Barang A (Rp 70.000) dan Barang C (Rp 60.000).
+
+
+2. Manakah penjualan barang fiktif yang menghasilkan pendapatan tertinggi namun dengan harga pembelian terendah?
+C. Analisa Kombinasi Pendapatan Tertinggi dan Harga Pembelian Rendah:
+o Penjualan Barang B pada faktur PJ005 menghasilkan pendapatan tertinggi (Rp 900.000) dengan harga satuan yang lebih rendah (Rp 45.000), dibandingkan dengan faktur PJ004 dan PJ006.
+Kesimpulan
+Penjualan fiktif yang menghasilkan pendapatan tertinggi dengan harga pembelian yang rendah adalah penjualan Barang B pada faktur PJ005, dengan pendapatan Rp 900.000 dan harga satuan Rp 45.000. Penjualan ini memberikan ilusi keuntungan yang tinggi karena harga jualnya relatif rendah tetapi kuantitasnya besar, menghasilkan total yang signifikan tanpa pengeluaran nyata
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
